@@ -387,6 +387,7 @@ INCLUDE "data/mapHeaders/ViridianMart.asm"
 INCLUDE "scripts/ViridianMart.asm"
 INCLUDE "data/mapObjects/ViridianMart.asm"
 INCLUDE "data/martInventories/viridian.asm"
+
 ViridianMartBlocks: INCBIN "maps/ViridianMart.blk"
 
 INCLUDE "data/mapHeaders/ViridianSchool.asm"
@@ -447,6 +448,7 @@ INCLUDE "data/mapHeaders/FuchsiaMart.asm"
 INCLUDE "scripts/FuchsiaMart.asm"
 INCLUDE "data/mapObjects/FuchsiaMart.asm"
 INCLUDE "data/martInventories/fuchsia.asm"
+
 FuchsiaMartBlocks: INCBIN "maps/FuchsiaMart.blk"
 
 INCLUDE "data/mapHeaders/SaffronHouse1.asm"
@@ -1029,6 +1031,7 @@ INCLUDE "data/mapHeaders/CeladonMart4.asm"
 INCLUDE "scripts/CeladonMart4.asm"
 INCLUDE "data/mapObjects/CeladonMart4.asm"
 INCLUDE "data/martInventories/celadon_4.asm"
+
 CeladonMart4Blocks: INCBIN "maps/CeladonMart4.blk"
 
 INCLUDE "data/mapHeaders/CeladonMartRoof.asm"
@@ -1075,6 +1078,7 @@ INCLUDE "data/mapHeaders/CeladonMart5.asm"
 INCLUDE "scripts/CeladonMart5.asm"
 INCLUDE "data/mapObjects/CeladonMart5.asm"
 INCLUDE "data/martInventories/celadon_5.asm"
+
 CeladonMart5Blocks: INCBIN "maps/CeladonMart5.blk"
 
 INCLUDE "data/mapHeaders/CeladonPrizeRoom.asm"
@@ -2468,29 +2472,35 @@ MtMoonShopBlocks: INCBIN "maps/MtMoonShop.blk"
 INCLUDE "data/mapHeaders/VermilionFerryDock.asm"
 INCLUDE "data/mapObjects/VermilionFerryDock.asm"
 INCLUDE "scripts/VermilionFerryDock.asm"
+
 NavelRockFerryBlocks:
 VermilionFerryBlocks: INCBIN "maps/VermilionFerryDock.blk"
 
 ; Faraway Island (Outside)
 INCLUDE "data/mapHeaders/FarawayIslandOutside.asm"
+
 INCLUDE "data/mapObjects/FarawayIslandOutside.asm"
 INCLUDE "scripts/FarawayIslandOutside.asm"
+
 FarawayIslandOutsideBlocks: INCBIN "maps/FarawayIslandOutside.blk"
 
 ; Faraway Island (Inside)
 INCLUDE "data/mapHeaders/FarawayIslandInside.asm"
+
 INCLUDE "data/mapObjects/FarawayIslandInside.asm"
 INCLUDE "scripts/FarawayIslandInside.asm"
 FarawayIslandInsideBlocks: INCBIN "maps/FarawayIslandInside.blk"
 
 ; Southern Island (Outside)
 INCLUDE "data/mapHeaders/SouthernIslandOutside.asm"
+
 INCLUDE "data/mapObjects/SouthernIslandOutside.asm"
 INCLUDE "scripts/SouthernIslandOutside.asm"
 SouthernIslandOutsideBlocks: INCBIN "maps/SouthernIslandOutside.blk"
 
 ; Southern Island (Inside)
 INCLUDE "data/mapHeaders/SouthernIslandInside.asm"
+
 INCLUDE "data/mapObjects/SouthernIslandInside.asm"
 INCLUDE "scripts/SouthernIslandInside.asm"
 SouthernIslandInsideBlocks: INCBIN "maps/SouthernIslandInside.blk"
@@ -2503,6 +2513,7 @@ INCLUDE "scripts/NavelRockFerry.asm"
 
 ; Navel Rock (Outside)
 INCLUDE "data/mapHeaders/NavelRockOutside.asm"
+
 INCLUDE "data/mapObjects/NavelRockOutside.asm"
 INCLUDE "scripts/NavelRockOutside.asm"
 NavelRockOutsideBlocks: INCBIN "maps/NavelRockOutside.blk"
@@ -2594,6 +2605,7 @@ INCLUDE "data/mapHeaders/IndigoPlateauLobby.asm"
 INCLUDE "scripts/IndigoPlateauLobby.asm"
 INCLUDE "data/mapObjects/IndigoPlateauLobby.asm"
 INCLUDE "data/martInventories/indigo_plateau.asm"
+
 IndigoPlateauLobbyBlocks: INCBIN "maps/IndigoPlateauLobby.blk"
 
 
