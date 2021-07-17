@@ -1,3 +1,7 @@
+Fork of Red++ made for the Screenshake Discord
+
+Original README:
+
 # Pokémon Red++ v3
 
 This is based on the [**Pokémon Red Disassembly**][pokered]
