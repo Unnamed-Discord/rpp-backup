@@ -13,7 +13,7 @@ _RocketHideout1EndBattleText2::
 
 _RocketHideout1AfterBattleTxt2::
 	text "Are you dissing"
-	line "Team Rocket?"
+	line "Team Jumbo?"
 	done
 
 _RocketHideout1BattleText3::

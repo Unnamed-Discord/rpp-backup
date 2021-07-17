@@ -1,12 +1,12 @@
 _SilphCo5Text_1a010::
-	text "Team Rocket is"
+	text "Team Jumbo is"
 	line "in an uproar over"
 	cont "some intruder."
 	cont "That's you right?"
 	done
 
 _SilphCo5Text_1a015::
-	text "Team Rocket took"
+	text "Team Jumbo took"
 	line "off! You're our"
 	cont "hero! Thank you!"
 	done
@@ -23,7 +23,7 @@ _SilphCo5EndBattleText2::
 _SilphCo5AfterBattleText2::
 	text "It's not smart"
 	line "to pick a fight"
-	cont "with Team Rocket!"
+	cont "with Team Jumbo!"
 	done
 
 _SilphCo5BattleText3::

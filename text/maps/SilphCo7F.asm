@@ -1,6 +1,6 @@
 _MeetLaprasGuyText::
 	text "Oh! Hi! You're"
-	line "not a Rocket! You"
+	line "not a Jumbo! You"
 	cont "came to save us?"
 	cont "Why, thank you!"
 
@@ -28,7 +28,7 @@ _HeresYourLaprasText::
 	done
 
 _LaprasGuyText::
-	text "Team Rocket's"
+	text "Team Jumbo's"
 	line "Boss went to the"
 	cont "boardroom! Is our"
 	cont "President OK?"
@@ -40,7 +40,7 @@ _LaprasGuySavedText::
 	done
 
 _SilphCo7Text_51e00::
-	text "Team Rocket was"
+	text "Team Jumbo was"
 	line "after the Master"
 	cont "Ball which will"
 	cont "catch any #mon!"
@@ -50,19 +50,19 @@ _CanceledMasterBallText::
 	text "We canceled the"
 	line "Master Ball"
 	cont "project because"
-	cont "of Team Rocket."
+	cont "of Team Jumbo."
 	done
 
 _SilphCo7Text_51e23::
 	text "It would be bad"
-	line "if Team Rocket"
+	line "if Team Jumbo"
 	cont "took over Silph"
 	cont "or our #mon!"
 	done
 
 _SilphCo7Text_51e28::
 	text "Wow! You chased"
-	line "off Team Rocket"
+	line "off Team Jumbo"
 	cont "all by yourself?"
 	done
 
@@ -158,7 +158,7 @@ _SilphCo7Text_51ec3::
 	cont "waited here!"
 
 	para "I guess Team"
-	line "Rocket slowed you"
+	line "Jumbo slowed you"
 	cont "down! Not that I"
 	cont "care!"
 
@@ -171,7 +171,7 @@ _SilphCo7Text_51ec3::
 _SilphCo7Text_51ec8::
 	text "Oh-oh!"
 	line "So, you are ready"
-	cont "for Boss Rocket!"
+	cont "for Boss Jumbo!"
 	prompt
 
 _SilphCo7Text_51ecd::

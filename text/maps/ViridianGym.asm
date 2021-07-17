@@ -4,7 +4,7 @@ _ViridianGymText_74ace::
 
 	para "I planned to"
 	line "resurrect Team"
-	cont "Rocket here!"
+	cont "Jumbo here!"
 
 	para "But, you have"
 	line "caught me again!"
@@ -30,7 +30,7 @@ _ViridianGymText_74ad9::
 	text "Having lost, I"
 	line "cannot face my"
 	cont "underlings!"
-	cont "Team Rocket is"
+	cont "Team Jumbo is"
 	cont "finished forever!"
 
 	para "I will dedicate my"

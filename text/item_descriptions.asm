@@ -466,10 +466,10 @@ _PokeFluteDescription::
 _LiftKeyDescription::
 	text "An elevator key"
 	line "used in Team"
-	cont "Rocket's hideout."
+	cont "Jumbo's hideout."
 
 	para "It bears the Team"
-	line "Rocket logo."
+	line "Jumbo logo."
 	prompt
 
 _EXPShareDescription::

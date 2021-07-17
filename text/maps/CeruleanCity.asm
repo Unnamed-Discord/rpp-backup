@@ -124,13 +124,13 @@ _CeruleanCityText6::
 	line "were robbed."
 
 	para "It's obvious that"
-	line "Team Rocket is"
+	line "Team Jumbo is"
 	cont "behind this most"
 	cont "heinous crime!"
 
 	para "Even our Police"
 	line "Force has trouble"
-	cont "with the Rockets!"
+	cont "with the Jumbos!"
 	done
 
 _CeruleanCityText_19730::

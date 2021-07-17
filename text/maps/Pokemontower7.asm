@@ -68,7 +68,7 @@ _PokemonTower7BattleText3::
 
 _PokemonTower7EndBattleText3::
 	text "Don't fight us"
-	line "Rockets!"
+	line "Jumbos!"
 	prompt
 
 _PokemonTower7AfterBattleText3::

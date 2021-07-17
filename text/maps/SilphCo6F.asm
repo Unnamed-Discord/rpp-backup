@@ -1,5 +1,5 @@
 _SilphCo6Text_1a24a::
-	text "The Rockets came"
+	text "The Jumbos came"
 	line "and took over the"
 	cont "building!"
 	done
@@ -31,14 +31,14 @@ _SilphCo6Text_1a27d::
 	done
 
 _SilphCo6Text_1a28f::
-	text "Team Rocket is"
+	text "Team Jumbo is"
 	line "trying to conquer"
 	cont "the world with"
 	cont "#mon!"
 	done
 
 _SilphCo6Text_1a294::
-	text "Team Rocket ran"
+	text "Team Jumbo ran"
 	line "because of you!"
 	done
 
@@ -95,7 +95,7 @@ _SilphCo6AfterBattleText3::
 
 _SilphCo6BattleText4::
 	text "You dare betray"
-	line "Team Rocket?"
+	line "Team Jumbo?"
 	done
 
 _SilphCo6EndBattleText4::

@@ -78,7 +78,7 @@ _CeladonCityText8::
 
 _CeladonCityText9::
 	text "Keep out of Team"
-	line "Rocket's way!"
+	line "Jumbo's way!"
 	done
 
 _CeladonCityText10::
@@ -144,7 +144,7 @@ _CeladonCityText17::
 	done
 
 _CeladonCityText18::
-	text "Rocket Game Corner"
+	text "Jumbo Game Corner"
 	
 	para "The playground"
 	line "for everybody!"

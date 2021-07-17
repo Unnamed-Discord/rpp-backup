@@ -9,7 +9,7 @@ _RocketHideout2EndBattleText2::
 	prompt
 
 _RocketHideout2AfterBattleTxt2::
-	text "The Team Rocket"
+	text "The Team Jumbo"
 	line "HQ has 4 basement"
 	cont "floors. Can you"
 	cont "reach the Boss?"

@@ -14,7 +14,7 @@ _VermilionHouse1Text3::
 
 	para "I heard Saffron"
 	line "has problems with"
-	cont "Team Rocket."
+	cont "Team Jumbo."
 
 	para "Vermilion appears"
 	line "to be safe."

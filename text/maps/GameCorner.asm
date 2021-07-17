@@ -8,7 +8,7 @@ _CeladonGameCornerText1::
 	done
 
 _CeladonGameCornerText_48d22::
-	text "Welcome to Rocket"
+	text "Welcome to Jumbo"
 	line "Game Cornet!"
 
 	para "Do you need some"
@@ -49,7 +49,7 @@ _CeladonGameCornerText3::
 
 	para "It's rumored that"
 	line "this place is run"
-	cont "by Team Rocket."
+	cont "by Team Jumbo."
 	done
 
 _CeladonGameCornerText4::

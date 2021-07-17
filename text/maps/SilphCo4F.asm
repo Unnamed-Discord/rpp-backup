@@ -4,12 +4,12 @@ _SilphCo4Text_19de0::
 	done
 
 _SilphCo4Text_19de5::
-	text "Huh? Team Rocket"
+	text "Huh? Team Jumbo"
 	line "is gone?"
 	done
 
 _SilphCo4BattleText2::
-	text "Team Rocket has"
+	text "Team Jumbo has"
 	line "taken command of"
 	cont "Silph Co.!"
 	done

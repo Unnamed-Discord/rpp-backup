@@ -15,7 +15,7 @@ _SaffronCityText3::
 
 _SaffronCityText4::
 	text "Saffron belongs"
-	line "to Team Rocket!"
+	line "to Team Jumbo!"
 	done
 
 _SaffronCityText5::
@@ -37,12 +37,12 @@ _SaffronCityText7::
 
 _SaffronCityText8::
 	text "You beat Team"
-	line "Rocket all alone?"
+	line "Jumbo all alone?"
 	cont "That's amazing!"
 	done
 
 _SaffronCityText9::
-	text "Yeah! Team Rocket"
+	text "Yeah! Team Jumbo"
 	line "is gone!"
 	cont "It's safe to go"
 	cont "out again!"
@@ -68,7 +68,7 @@ _SaffronCityText12::
 	text "Pidgeot: Bi bibii!@@"
 
 _SaffronCityText13::
-	text "I saw Rocket"
+	text "I saw Jumbo"
 	line "Boss escaping"
 	cont "Silph's building."
 	done

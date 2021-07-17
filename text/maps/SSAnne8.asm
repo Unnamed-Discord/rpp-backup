@@ -107,7 +107,7 @@ _SSAnne8Text11::
 	para "I'm a Global"
 	line "Police agent."
 	cont "On the trail of"
-	cont "Team Rocket!"
+	cont "Team Jumbo!"
 	
 	para "Allons-y!"
 	done

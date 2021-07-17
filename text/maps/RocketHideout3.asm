@@ -1,6 +1,6 @@
 _RocketHideout3BattleText2::
 	text "Stop meddling in"
-	line "Team Rocket's"
+	line "Team Jumbo's"
 	cont "affairs!"
 	done
 
