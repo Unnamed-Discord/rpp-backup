@@ -133,7 +133,7 @@ BillsPCMenu:
 	ld [hli], a ; wTopMenuItemX
 	inc hl
 	inc hl
-	ld a, 4
+	ld a, 3
 	ld [hli], a ; wMaxMenuItem
 	ld a, A_BUTTON | B_BUTTON
 	ld [hli], a ; wMenuWatchedKeys
@@ -180,9 +180,9 @@ BillsPCMenu:
 	jp z, BillsPCWithdraw ; withdraw
 	cp $1
 	jp z, BillsPCDeposit ; deposit
+	; cp $2
+	; jp z, BillsPCRelease ; release
 	cp $2
-	jp z, BillsPCRelease ; release
-	cp $3
 	jp z, BillsPCChangeBox ; change box
 
 ExitBillsPC:
@@ -345,7 +345,7 @@ DisplayMonListMenu:
 BillsPCMenuText:
 	db   "Withdraw ", $4a
 	next "Deposit ",  $4a
-	next "Release ",  $4a
+	; next "Release ",  $4a
 	next "Change Box"
 	next "Back"
 	db "@"
