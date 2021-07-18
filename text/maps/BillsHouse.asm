@@ -3,7 +3,7 @@ _BillsHouseText_1e865::
 	line "#mon..."
 	cont "...No I'm not!"
 
-	para "Call me Bill!"
+	para "Call me Leif!"
 	line "I'm a true blue"
 	cont "# Maniac! Hey!"
 	cont "What's with that"
@@ -38,7 +38,7 @@ _BillsHouseText_1e86f::
 	prompt
 
 _BillThankYouText::
-	text "Bill: Yeehah!"
+	text "Leif: Yeehah!"
 	line "Thanks, bud! I"
 	cont "owe you one!"
 
@@ -80,7 +80,7 @@ _BillsHouseText_1e8cb::
 	done
 
 _BillsHouseText_1e8da::
-	text "Bill: Look, bud,"
+	text "Leif: Look, bud,"
 	line "just check out"
 	cont "some of my rare"
 	cont "#mon on my PC!"

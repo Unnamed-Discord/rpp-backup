@@ -822,7 +822,7 @@ PokemaniacData:
 	
 SuperNerdData:
 	db "Teru@",11,VOLTORB,VOLTORB,$FF
-	db "Leif@",16,PIKACHU,UMBREON,$FF
+	db "Eric@",16,PIKACHU,UMBREON,$FF
 	db "Markus@",20,VOLTORB,KOFFING,VOLTORB,MAGNEMITE,$FF
 	db "Alan@",22,GRIMER,MUK,GRIMER,$FF
 	db "Derek@",26,KOFFING,$FF
@@ -853,7 +853,7 @@ HikerData:
 BikerData:
 	db "Chazz@",28,KOFFING,GRIMER,EKANS,$FF
 	db "Glenn@",29,RHYHORN,RHYHORN,$FF
-	db "DwayneJ@",25,KOFFING,GRIMER,$FF
+	db "Dwayne J@",25,KOFFING,GRIMER,$FF
 	db "Joel@",28,GRIMER,SLUGMA,$FF
 	db "Kyle@",29,GRIMER,KOFFING,$FF
 	db "Billy@",33,DITTO,$FF

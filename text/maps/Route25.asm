@@ -129,7 +129,7 @@ _Route25AfterBattleText8::
 
 _Route25BattleText9::
 	text "You're going to"
-	line "see Bill? First,"
+	line "see Leif? First,"
 	cont "let's fight!"
 	done
 
@@ -146,5 +146,5 @@ _Route25AfterBattleText9::
 _Route25Text11::
 	text "Sea Cottage"
 	
-	para "Bill lives here!"
+	para "Leif lives here!"
 	done

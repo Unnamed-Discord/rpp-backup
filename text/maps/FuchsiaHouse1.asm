@@ -9,7 +9,7 @@ _FuchsiaHouse1Text1:: ; unused, now the Move Deleter
 
 _FuchsiaHouse1Text2:: ; unused, now the Move Relearner
 	text "Hmm? You've met"
-	line "Bill?"
+	line "Leif?"
 
 	para "He's my grandson!"
 

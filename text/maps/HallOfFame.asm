@@ -1,5 +1,5 @@
 _HallofFameRoomText1::
-	text "Oak: Er-hem!"
+	text "Prof: Er-hem!"
 	line "Congratulations,"
 	cont "[PLAYER]!"
 

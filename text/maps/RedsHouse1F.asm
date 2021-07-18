@@ -4,7 +4,7 @@ _MomWakeUpText::
 	cont "home someday."
 	cont "It said so on TV."
 
-	para "Prof. Oak, next"
+	para "Prof. Conny, next"
 	line "door, is looking"
 	cont "for you."
 	done
@@ -15,7 +15,7 @@ _MomWakeUpText2::
 	cont "home someday."
 	cont "It said so on TV."
 
-	para "Prof. Oak, next"
+	para "Prof. Conny, next"
 	line "door, is looking"
 	cont "for you."
 	done

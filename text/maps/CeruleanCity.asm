@@ -32,7 +32,7 @@ _CeruleanCityText_19677::
 	text "[RIVAL]: Hey,"
 	line "guess what?"
 
-	para "I went to Bill's"
+	para "I went to Leif's"
 	line "and got him to"
 	cont "show me his rare"
 	cont "#mon!"
@@ -41,7 +41,7 @@ _CeruleanCityText_19677::
 	line "of pages to my"
 	cont "#dex!"
 
-	para "After all, Bill's"
+	para "After all, Leif's"
 	line "world famous as a"
 	cont "# Maniac!"
 

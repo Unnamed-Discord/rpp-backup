@@ -68,7 +68,7 @@ ItemNames:
 	db "X Speed@"
 	db "X Special@"
 	db "Coin Case@"
-	db "Oak's Parcel@"
+	db "Conny Parcel@"
 	db "Item Finder@"
 	db "Silph Scope@"
 	db "Poké Flute@"

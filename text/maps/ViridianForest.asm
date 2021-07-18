@@ -89,7 +89,7 @@ _ViridianForestText10::
 _ViridianForestText11::
 	text "Trainer Tips"
 
-	para "Contact Prof. Oak"
+	para "Call Prof. Conny"
 	line "via PC to get"
 	cont "your #dex"
 	cont "evaluated!"

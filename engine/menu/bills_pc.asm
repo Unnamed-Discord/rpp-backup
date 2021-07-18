@@ -86,7 +86,7 @@ DisplayPCMainMenu::
 	ret
 
 SomeonesPCText:   db "Someone's PC@"
-BillsPCText:      db "Bill's PC@"
+BillsPCText:      db "Leif's PC@"
 PlayersPCText:    db "'s PC@"
 OaksPCText:       db "Prof. Oak's PC@"
 PKMNLeaguePCText: db $4a, "League@"

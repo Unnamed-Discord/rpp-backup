@@ -82,11 +82,11 @@ _GaryText_76103::
 	done
 
 _GaryText2::
-	text "Oak: [PLAYER]!"
+	text "Prof: [PLAYER]!"
 	done
 
 _GaryText_76120::
-	text "Oak: So, you won!"
+	text "Prof: So, you won!"
 	line "Congratulations!"
 	cont "You're the new"
 	cont "#mon League"
@@ -104,7 +104,7 @@ _GaryText_76120::
 	done
 
 _GaryText_76125::
-	text "Oak: [RIVAL]! I'm"
+	text "Prof: [RIVAL]! I'm"
 	line "disappointed!"
 
 	para "I came when I"
@@ -130,7 +130,7 @@ _GaryText_76125::
 	done
 
 _GaryText_7612a::
-	text "Oak: [PLAYER]!"
+	text "Prof: [PLAYER]!"
 
 	para "You understand"
 	line "that your victory"

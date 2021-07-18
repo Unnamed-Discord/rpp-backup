@@ -63,7 +63,7 @@ WonderTradeOTNames1:
 	db "Wes@@@@@" ; $3d
 	db "Michael@" ; $3e
 	db "Todd@@@@" ; $3f
-	db "Oak@@@@@" ; $40
+	db "Conny@@@" ; $40
 	db "Elm@@@@@" ; $41
 	db "Ivy@@@@@" ; $42
 	db "Birch@@@" ; $43
@@ -81,7 +81,7 @@ WonderTradeOTNames1:
 	db "Burnet@@" ; $4f
 	db "Mohn@@@@" ; $50
 	db "Krane@@@" ; $51
-	db "Bill@@@@" ; $52
+	db "Leif@@@@" ; $52
 	db "Lanette@" ; $53
 	db "Brigett@" ; $54
 	db "Celio@@@" ; $55

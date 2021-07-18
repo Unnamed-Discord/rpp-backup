@@ -1,9 +1,9 @@
 _OakAppearsText::
-	text "Oak: Hey! Wait!"
+	text "Prof: Hey! Wait!"
 	line "Don't go out!@@"
 
 _OakWalksUpText::
-	text "Oak: Sorry I'm so"
+	text "Prof: Sorry I'm so"
 	line "slow, I don't have"
 	cont "Running Shoes"
     cont "like you do."
@@ -36,7 +36,7 @@ _PalletTownText3::
 	done
 
 _PalletTownText4::
-	text "Oak's #mon"
+	text "Conny's #mon"
 	line "Research Lab"
 	done
 

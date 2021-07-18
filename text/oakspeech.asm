@@ -3,8 +3,9 @@ _OakSpeechText1::
 	line "Welcome to the"
 	cont "world of #mon!"
 
-	para "My name is Oak!"
-	line "People call me"
+	para "I'm Constantin!"
+	line "You can call me"
+	cont "Conny for short,"
 	cont "the #mon Prof!"
 	prompt
 

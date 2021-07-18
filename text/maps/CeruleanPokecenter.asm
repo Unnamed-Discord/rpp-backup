@@ -1,5 +1,5 @@
 _CeruleanPokecenterText2::
-	text "That Bill!"
+	text "That Leif!"
 
 	para "I heard that"
 	line "he'll do whatever"
@@ -9,14 +9,14 @@ _CeruleanPokecenterText2::
 
 _CeruleanPokecenterText3::
 	text "Have you heard"
-	line "about Bill?"
+	line "about Leif?"
 
 	para "Everyone calls him"
 	line "a # Maniac!"
 
 	para "I think people"
 	line "are just jealous"
-	cont "of Bill, though."
+	cont "of Leif, though."
 
 	para "Who wouldn't want"
 	line "to boast about"
