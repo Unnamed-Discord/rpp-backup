@@ -45,12 +45,12 @@ DrawStartMenu:
 	ld a,[wd72e]
 	bit 6,a ; is the player using the link feature?
 ; case for not using link feature
-	ld de,StartMenuSaveText
-	jr z,.printSaveOrResetText
+	; ld de,StartMenuSaveText
+	; jr z,.printSaveOrResetText
 ; case for using link feature
-	ld de,StartMenuResetText
+	; ld de,StartMenuResetText
 .printSaveOrResetText
-	call PrintStartMenuItem
+	; call PrintStartMenuItem
 	ld de,StartMenuOptionText
 	call PrintStartMenuItem
 	ld de,StartMenuExitText
