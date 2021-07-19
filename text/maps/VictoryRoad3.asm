@@ -9,8 +9,8 @@ _VictoryRoad3EndBattleText2::
 	prompt
 
 _VictoryRoad3AfterBattleText2::
-	text "You beat Giovanni"
-	line "of Team Jumbo?"
+	text "Jumbovanni? You"
+	line "beat him?"
 	done
 
 _VictoryRoad3BattleText3::

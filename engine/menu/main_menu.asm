@@ -580,11 +580,11 @@ DisplayOptionMenu:
 
 TextSpeedOptionText:
 	db   "Text Speed:"
-	next " Fast  Normal Slow@"
+	next " Inst  Inst   Inst@"
 
 BattleAnimationOptionText:
 	db   "Battle Effects:"
-	next " On       Off@"
+	next " Off      Off@"
 
 BattleStyleOptionText:
 	db   "Battle Style:"
@@ -609,7 +609,7 @@ SetOptionsFromCursorPositions:
 	ld d,a
 	ld a,[wOptionsBattleAnimCursorX] ; battle animation cursor X coordinate
 	dec a
-	jr z,.battleAnimationOn
+	; jr z,.battleAnimationOn ; disable battle animations always
 .battleAnimationOff
 	set 7,d
 	jr .checkBattleStyle
@@ -675,10 +675,13 @@ SetCursorPositionsFromOptions:
 ; 00: X coordinate of menu cursor
 ; 01: delay after printing a letter (in frames)
 TextSpeedOptionData:
-	db 14,5 ; Slow
-	db  7,3 ; Medium
-	db  1,1 ; Fast
-	db 7 ; default X coordinate (Medium)
+	;db 14,5 ; Slow
+	;db  7,3 ; Medium
+	;db  1,1 ; Fast
+	db 14,0 ; Instant
+	db  7,0 ; Instant
+	db  1,0 ; Instant
+	db 1 ; default X coordinate (Medium)
 	db $ff ; terminator
 
 CheckForPlayerNameInSRAM:
