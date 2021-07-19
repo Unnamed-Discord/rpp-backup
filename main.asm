@@ -1214,7 +1214,6 @@ ChannelerPic::     INCBIN "pic/trainer/channeler.pic"
 AgathaPic::        INCBIN "pic/trainer/agatha.pic"
 LancePic::         INCBIN "pic/trainer/lance.pic"
 YoungCouplePic::   INCBIN "pic/trainer/young_couple.pic"
-FlanneryPic::      INCBIN "pic/trainer/flannery.pic"
 
 INCLUDE "data/mapHeaders/TradeCenter.asm"
 INCLUDE "scripts/TradeCenter.asm"
@@ -2693,6 +2692,7 @@ INCLUDE "scripts/move_tutor.asm"
 
 SECTION "trainer pics 2", ROMX,BANK[$39]
 
+FlanneryPic::      INCBIN "pic/trainer/flannery.pic"
 ProfOakPic::     INCBIN "pic/trainer/prof.oak.pic"
 ExecutiveFPic::  INCBIN "pic/trainer/executivef.pic"
 ExecutiveMPic::  INCBIN "pic/trainer/executivem.pic"

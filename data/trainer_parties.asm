@@ -178,7 +178,7 @@ BlaineData:
 	db $FF
 	
 ; Giovanni Gym Battle
-	db "Giovanni@"
+	db "Jumvanni@"
 	db SPECIAL_TRAINER2
 	db GIOVANNI_2 ; pic
 	db AI_HYPER_POTION ; AI
@@ -201,7 +201,7 @@ BlaineData:
 	
 GiovanniData:
 	; Hideout
-	db "Giovanni@"
+	db "Jumvanni@"
 	db SPECIAL_TRAINER
 	
 	db 25,ONIX
@@ -216,7 +216,7 @@ GiovanniData:
 	
 	
 	; Silph Co
-	db "Giovanni@"
+	db "Jumvanni@"
 	db SPECIAL_TRAINER
 	
 	db 35,ONIX
