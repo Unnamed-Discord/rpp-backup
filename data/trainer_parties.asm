@@ -822,7 +822,7 @@ PokemaniacData:
 	
 SuperNerdData:
 	db "Teru@",11,VOLTORB,VOLTORB,$FF
-	db "Eric@",16,PIKACHU,UMBREON,$FF
+	db "Jandel@",16,PIKACHU,UMBREON,$FF
 	db "Markus@",20,VOLTORB,KOFFING,VOLTORB,MAGNEMITE,$FF
 	db "Alan@",22,GRIMER,MUK,GRIMER,$FF
 	db "Derek@",26,KOFFING,$FF
