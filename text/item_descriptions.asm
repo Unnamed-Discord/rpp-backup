@@ -441,7 +441,7 @@ _CoinCaseDescription::
 
 _OaksParcelDescription::
 	text "A package for"
-	line "Prof.Oak."
+	line "Prof.Conny."
 	prompt
 
 _ItemFinderDescription::
@@ -1241,7 +1241,7 @@ _CoinCaseDescription_Mart::
 
 _OaksParcelDescription_Mart::
 	text "A package for"
-	line "Prof.Oak."
+	line "Prof.Conny."
 	done
 
 _ItemFinderDescription_Mart::

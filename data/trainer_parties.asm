@@ -74,7 +74,7 @@ TrainerDataPointers:
 
 	
 BrockData:
-	db "Brock@"
+	db "Peroe@"
 	db SPECIAL_TRAINER
 	
 	db 12,GEODUDE
@@ -85,7 +85,7 @@ BrockData:
 	db $FF
 	
 MistyData:
-	db "Misty@"
+	db "Orange@"
 	db SPECIAL_TRAINER
 	
 	db 18,STARYU
@@ -96,7 +96,7 @@ MistyData:
 	db $FF
 	
 LtSurgeData:
-	db "Lt.Surge@"
+	db "Dr.Draw@"
 	db SPECIAL_TRAINER
 	
 	db 21,VOLTORB
@@ -110,7 +110,7 @@ LtSurgeData:
 	db $FF
 	
 ErikaData:
-	db "Erika@"
+	db "Sammie@"
 	db SPECIAL_TRAINER
 	
 	db 29,VICTREEBEL
@@ -124,7 +124,7 @@ ErikaData:
 	db $FF
 	
 KogaData:
-	db "Koga@"
+	db "Rooke@"
 	db SPECIAL_TRAINER
 	
 	db 37,VENOMOTH
@@ -141,7 +141,7 @@ KogaData:
 	db $FF
 	
 SabrinaData:
-	db "Sabrina@"
+	db "Meowsa@"
 	db SPECIAL_TRAINER
 	
 	db 38,KADABRA
@@ -158,7 +158,7 @@ SabrinaData:
 	db $FF
 	
 BlaineData:
-	db "Blaine@"
+	db "Oldtimer@"
 	db SPECIAL_TRAINER
 	
 	db 42,GROWLITHE
@@ -233,7 +233,7 @@ GiovanniData:
 	db $FF
 	
 LoreleiData:
-	db "Lorelei@"
+	db "Seawald@"
 	db SPECIAL_TRAINER
 	
 	db 54,DEWGONG
@@ -253,7 +253,7 @@ LoreleiData:
 	db $FF
 	
 BrunoData:
-	db "Bruno@"
+	db "Klawe@"
 	db SPECIAL_TRAINER
 	
 	db 53,ONIX
@@ -273,7 +273,7 @@ BrunoData:
 	db $FF	
 	
 AgathaData:
-	db "Agatha@"
+	db "Eternia@"
 	db SPECIAL_TRAINER
 	
 	db 56,MISDREAVUS
@@ -293,7 +293,7 @@ AgathaData:
 	db $FF
 	
 LanceData:
-	db "Lance@"
+	db "ZiggPeck@"
 	db SPECIAL_TRAINER
 	
 	db 58,GYARADOS
@@ -746,7 +746,7 @@ BugCatcherData:
 LassData:
 	db "Nicole@",9,PIDGEY,PIDGEY,$FF
 	db "Jennifer@",10,ZIGZAGOON,NIDORAN_M,$FF
-	db "Orange@",14,JIGGLYPUFF,$FF
+	db "Bluey@",14,JIGGLYPUFF,$FF
 	db "Rachel@",31,PARAS,PARAS,PARASECT,$FF
 	db "Christy@",11,ODDISH,BELLSPROUT,$FF
 	db "Jessica@",14,CLEFAIRY,$FF
@@ -766,7 +766,7 @@ LassData:
 SailorData:
 	db "Moon@",18,MACHOP,SHELLDER,$FF
 	db "Will@",17,MACHOP,TENTACOOL,$FF
-	db "Lewis@",21,SHELLDER,$FF
+	db "Mouth@",21,SHELLDER,$FF
 	db "Huey@",17,HORSEA,SHELLDER,TENTACOOL,$FF
 	db "Dave@",18,TENTACOOL,STARYU,$FF
 	db "Eugene@",17,HORSEA,HORSEA,HORSEA,$FF
@@ -914,13 +914,13 @@ SwimmerData:
 	db "Ross@",33,SEADRA,TENTACRUEL,$FF
 	db "Perry@",37,STARMIE,$FF
 	db "Ryan@",33,STARYU,WARTORTLE,$FF
-	db "Ben@",32,CHINCHOU,LANTURN,STARMIE,$FF
+	db "Ear@",32,CHINCHOU,LANTURN,STARMIE,$FF
 	db "Josiah@",31,TENTACOOL,TENTACOOL,TENTACRUEL,$FF
 	
 CueBallData:
 	db "Chance@",28,MACHOP,MANKEY,MACHOP,$FF
 	db "Nine@",29,MANKEY,MACHOP,$FF
-	db "Chad@",33,MACHOP,$FF
+	db "Ivo@",33,MACHOP,$FF
 	db "Scott@",29,MANKEY,PRIMEAPE,$FF
 	db "Nick@",29,MACHOP,MACHOKE,$FF
 	db "Reese@",33,MACHOKE,$FF
@@ -932,7 +932,7 @@ GamblerData:
 	db "Rich@",18,BELLSPROUT,ODDISH,$FF
 	db "Dirk@",18,VOLTORB,MAGNEMITE,$FF
 	db "Jasper@",18,GROWLITHE,VULPIX,$FF
-	db "Green@",22,POLIWAG,POLIWAG,POLIWHIRL,$FF
+	db "Greene@",22,POLIWAG,POLIWAG,POLIWHIRL,$FF
 	db "Biff@",22,ONIX,GEODUDE,GRAVELER,$FF
 	db "Joel@",24,GROWLITHE,VULPIX,$FF
 	
@@ -975,7 +975,7 @@ JugglerData:
 	db "Cloyd@",48,MR_MIME,$FF
 	db "Derek@",33,HYPNO,$FF
 	db "Ringo@",38,CROBAT,MUK,$FF
-	db "Shawn@",34,GOLBAT,WEEZING,MUK,$FF
+	db "Pietro@",34,GOLBAT,WEEZING,MUK,$FF
 	
 TamerData:
 	db "Cole@",34,NIDORINO,ARBOK,$FF
@@ -1005,10 +1005,10 @@ BirdKeeperData:
 	db "Chris@",28,SPEAROW,MURKROW,FEAROW,$FF
 	
 BlackbeltData:
-	db "Kenji@",37,HITMONLEE,HITMONCHAN,$FF
-	db "Lao@",31,MANKEY,MANKEY,PRIMEAPE,$FF
+	db "Daniel@",37,HITMONLEE,HITMONCHAN,$FF
+	db "Donnie@",31,MANKEY,MANKEY,PRIMEAPE,$FF
 	db "Hung@",32,MACHOP,MACHOKE,$FF
-	db "Chang@",36,PRIMEAPE,$FF
+	db "Lee@",36,PRIMEAPE,$FF
 	db "Toru@",31,MACHOP,MANKEY,PRIMEAPE,$FF
 	db "Yoshi@",40,MACHOP,MACHOKE,$FF
 	db "Wong@",43,MACHOKE,$FF
@@ -1059,7 +1059,7 @@ ScientistData:
 	db "Brian@",28,VOLTORB,KOFFING,MAGNETON,$FF
 	db "Albert@",29,MAGNEMITE,KOFFING,$FF
 	db "Justin@",33,MAGNEMITE,MAGNETON,VOLTORB,$FF
-	db "Chris@",34,MAGNEMITE,ELECTRODE,$FF
+	db "Bazzing@",34,MAGNEMITE,ELECTRODE,$FF
 	
 RocketFData:
 RocketData:
@@ -1117,7 +1117,7 @@ RocketData:
 	db "Sqwaker@",CUSTOM_PIC,EXECUTIVE_M,34,CUBONE,DROWZEE,MAROWAK,$FF
 	
 AceTrainerMData:
-	db "Aaron@",39,NIDORINO,NIDOKING,$FF
+	db "Wes@",39,NIDORINO,NIDOKING,$FF
 	db "Blake@",43,EXEGGUTOR,CLOYSTER,ARCANINE,$FF
 	db "Brian@",43,KINGLER,TENTACRUEL,BLASTOISE,$FF
 	db "Cody@",45,KINGLER,STARMIE,$FF
