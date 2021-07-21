@@ -127,7 +127,7 @@ MainMenu:
 InitOptions:
 	ld a,1 ; no delay
 	ld [wLetterPrintingDelayFlags],a
-	ld a,1 ; fast speed
+	ld a,0 ; instant speed
 	ld [wOptions],a
 	ret
 
