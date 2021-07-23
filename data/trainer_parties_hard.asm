@@ -74,7 +74,7 @@ TrainerDataPointers: ; Originally created 28/06/2015 by Neodymium / Free to use 
 
 	
 BrockData:
-	db "Brock@"
+	db "Peroe@"
 	db SPECIAL_TRAINER
 	db 12,AERODACTYL
 	moveset WING_ATTACK, SAND_ATTACK, ROCK_TOMB, AGILITY
@@ -88,7 +88,7 @@ BrockData:
 	db $FF
 	
 MistyData:
-	db "Misty@"
+	db "Orange@"
 	db SPECIAL_TRAINER
 	
 	db 25,VAPOREON
@@ -108,7 +108,7 @@ MistyData:
 	db $FF
 	
 LtSurgeData:
-	db "Lt. Surge@"
+	db "Dr.Draw@"
 	db SPECIAL_TRAINER
 	
 	db 35,ELECTRODE
@@ -128,7 +128,7 @@ LtSurgeData:
 	db $FF
 	
 ErikaData:
-	db "Erika@"
+	db "Sammie@"
 	db SPECIAL_TRAINER
 	
 	db 45,VILEPLUME
@@ -148,7 +148,7 @@ ErikaData:
 	db $FF
 	
 KogaData:
-	db "Koga@"
+	db "Rooke@"
 	db SPECIAL_TRAINER
 	
 	db 60,VENOMOTH
@@ -168,7 +168,7 @@ KogaData:
 	db $FF
 	
 SabrinaData:
-	db "Sabrina@"
+	db "Meowsa@"
 	db SPECIAL_TRAINER
 	
 	db 55,JYNX
@@ -188,7 +188,7 @@ SabrinaData:
 	db $FF
 	
 BlaineData:
-	db "Blaine@"
+	db "Oldtimer@"
 	db SPECIAL_TRAINER
 	
 	db 65,CHARIZARD
@@ -208,7 +208,7 @@ BlaineData:
 	db $FF
 	
 ; Giovanni Gym Battle
-	db "Giovanni@"
+	db "Jumvanni@"
 	db SPECIAL_TRAINER2
 	db GIOVANNI_2 ; pic
 	db AI_HYPER_POTION ; AI
@@ -234,7 +234,7 @@ BlaineData:
 	
 GiovanniData:
 	; Game Corner
-	db "Giovanni@"
+	db "Jumvanni@"
 	db SPECIAL_TRAINER
 	
 	db 47,STEELIX
@@ -258,7 +258,7 @@ GiovanniData:
 	
 	
 	; Silph Co
-	db "Giovanni@"
+	db "Jumvanni@"
 	db SPECIAL_TRAINER
 	
 	db 55,PERSIAN
@@ -281,7 +281,7 @@ GiovanniData:
 	db $FF
 	
 LoreleiData:
-	db "Lorelei@"
+	db "Seawald@"
 	db SPECIAL_TRAINER
 	
 	db 77,CLOYSTER
@@ -301,7 +301,7 @@ LoreleiData:
 	db $FF
 	
 BrunoData:
-	db "Bruno@"
+	db "Klawe@"
 	db SPECIAL_TRAINER
 	
 	db 78,STEELIX
@@ -321,7 +321,7 @@ BrunoData:
 	db $FF
 	
 AgathaData:
-	db "Agatha@"
+	db "Eternia@"
 	db SPECIAL_TRAINER
 	
 	db 79,MISDREAVUS
@@ -341,7 +341,7 @@ AgathaData:
 	db $FF
 	
 LanceData:
-	db "Lance@"
+	db "ZiggPeck@"
 	db SPECIAL_TRAINER
 	
 	db 80,GYARADOS
@@ -773,22 +773,22 @@ Green3Data:
 	db $FF
 	
 YoungsterData: ; COMPLETED
-	db "Ben@",14,ZIGZAGOON,RATTATA,$FF ; ROUTE3 #3
+	db "Conny@",14,ZIGZAGOON,RATTATA,$FF ; ROUTE3 #3
 	db "Arnold@",14,SPEAROW,SANDSHREW,$FF ; ROUTE3 #5
 	db "Anthony@",16,RATTATA,MACHOP,ZUBAT,$FF ; #MTMOON #6
 	db "Samuel@",20,RATICATE,ARBOK,GOLBAT,$FF ; NUGGET BRIDGE #4
 	db "Adam@",23,RATTATA,SPEAROW,$FF ; ROUTE 25 2
-	db "Ben@",23,SLOWPOKE,SHELLDER,$FF ; Route 25 3u
+	db "Marshall@",23,SLOWPOKE,SHELLDER,$FF ; Route 25 3u
 	db "Calvin@",23,EKANS,SANDSHREW,$FF ; Route 25 7
 	db "Chad@",25,NIDORINO,$FF ;  SS_ANNE
-	db "Dan@",25,EKANS,KOFFING,$FF ; Route 12 1
+	db "Conny@",25,EKANS,KOFFING,$FF ; Route 12 1
 	db "Dave@",26,SANDSHREW,ZUBAT,$FF ; Route 12 2u
 	db "Josh@",26,ZIGZAGOON,LINOONE,$FF ; Route 12 6u
 	db "Timmy@",26,NIDORAN_M,NIDORINO,$FF ; Route 12 2d
 	db "Nash@",23,SPEAROW,RATTATA,RATTATA,SPEAROW,$FF ; 					UNKNOWN
 	
 BugCatcherData: ; COMPLETED
-	db "Luke@",9,WEEDLE,CATERPIE,$FF ; VIRIDIAN FOREST #1
+	db "Flick@",9,WEEDLE,CATERPIE,$FF ; VIRIDIAN FOREST #1
 	db "Finn@",11,KAKUNA,METAPOD,$FF ; VIRIDIAN FOREST #2
 	db "Jake@",13,BUTTERFREE,BEEDRILL,$FF ; VIRIDIAN FOREST #3
 	db "David@",15,WEEDLE,KAKUNA,$FF ; ROUTE3 #2
@@ -806,7 +806,7 @@ BugCatcherData: ; COMPLETED
 LassData: ; COMPLETED
 	db "Nicole@",14,JIGGLYPUFF,JIGGLYPUFF,EEVEE,$FF ; ROUTE #3 #1
 	db "Jennifer@",15,JIGGLYPUFF,CLEFAIRY,$FF ; ROUTE #3 #5
-	db "Hillary@",15,WIGGLYTUFF,CLEFABLE,$FF ; ; ROUTE #3 #7
+	db "Bluey@",15,WIGGLYTUFF,CLEFABLE,$FF ; ; ROUTE #3 #7
 	db "Rachel@",45,PARAS,PARAS,PARASECT,$FF ; Beside Cerulean Cave
 	db "Christy@",16,ODDISH,BELLSPROUT,$FF ; MTMOON #5
 	db "Jessica@",16,CLEFAIRY,$FF ; MTMOON #1
@@ -824,9 +824,9 @@ LassData: ; COMPLETED
 	db "Bella@",43,VILEPLUME,$FF ; CELADON GYM right
 	
 SailorData: ; COMPLETED
-	db "Jack@",25,OMANYTE,KABUTO,$FF ; SSANNE 1
+	db "Moon@",25,OMANYTE,KABUTO,$FF ; SSANNE 1
 	db "Will@",25,MACHOP,TENTACOOL,$FF ; SSANNE 2
-	db "Lewis@",25,SHELLDER,TENTACOOL,$FF ; SSANNE 3
+	db "Mouth@",25,SHELLDER,TENTACOOL,$FF ; SSANNE 3
 	db "Huey@",26,HORSEA,SHELLDER,TENTACOOL,$FF ; SSANNE BASEMENT
 	db "Dave@",26,TENTACOOL,STARYU,KABUTO,$FF ; SSANNE 4
 	db "Eugene@",25,SQUIRTLE,TENTACOOL,$FF ; SSANNE 4
@@ -835,7 +835,7 @@ SailorData: ; COMPLETED
 	
 CamperData: 
 	db "Daniel@",14,DIGLETT,SANDSHREW,$FF ; PEWTER GYM
-	db "Craig@",23,POLIWAG,GOLDEEN,$FF ; Route 25
+	db "Lex@",23,POLIWAG,GOLDEEN,$FF ; Route 25
 	db "Harry@",20,PRIMEAPE,MACHOKE,$FF ; Nugget bridge 5
 	db "Ronald@",25,DITTO,MEOWTH,$FF ; Route 6 1
 	db "Mark@",25,SPEAROW,DODUO,$FF ; Route 6 5
@@ -850,7 +850,7 @@ PicnickerData: ; COMPLETED
 	db "Debra@",25,RATTATA,PIKACHU,$FF ; Route 6 2
 	db "Heidi@",25,RATTATA,SPEAROW,$FF ; Route 6 4
 	db "Brooke@",33,IVYSAUR,$FF ;                                        	UNKNOWN
-	db "Liz@",32,GLOOM,WEEPINBELL,$FF ; Route 9 1
+	db "Sammie@",32,GLOOM,WEEPINBELL,$FF ; Route 9 1
 	db "Hope@",33,PERSIAN,$FF ; Route 9 5
 	db "Kim@",36,RAICHU,CLEFABLE,$FF ; Rocktunnel Outside
 	db "Alice@",38,PERSIAN,PIDGEOT,$FF ; Rocktunnel Outside (end)
@@ -872,7 +872,7 @@ PicnickerData: ; COMPLETED
 	db "Rei@",56,TENTACRUEL,SEADRA,DEWGONG,$FF ; After seafoam
 	
 PokemaniacData: ; COMPLETED
-	db "Terry@",40,RHYHORN,LICKITUNG,$FF ;                         UNKNOWN
+	db "Masuda@",40,RHYHORN,LICKITUNG,$FF ;                         UNKNOWN
 	db "Ben@",37,MAROWAK,SANDSLASH,$FF ; ROCKTUNNEL OUTSIDE LOWER
 	db "Scott@",36,SLOWBRO,MAROWAK,$FF ; ROCKTUNNEL 11
 	db "Jessy@",CUSTOM_PIC,COSPLAY_GIRL,36,RAICHU,MAROWAK,$FF ; ROCKTUNNEL 4
@@ -895,7 +895,7 @@ SuperNerdData: ; COMPLETED
 	db "Avery@",62,ARCANINE,RAPIDASH,$FF ; CINNABAR GYM 7
 	
 HikerData: ; COMPLETED
-	db "Jeff@",17,GEODUDE,MACHOP,ONIX,$FF ; MT moon
+	db "Bruh@",17,GEODUDE,MACHOP,ONIX,$FF ; MT moon
 	db "Dillon@",22,GEODUDE,MACHOP,$FF ; Route 25 1
 	db "Russel@",23,GEODUDE,MANKEY,$FF ; Route 25 5
 	db "Michael@",23,GEODUDE,ONIX,$FF ; Route 25 2d
@@ -911,9 +911,9 @@ HikerData: ; COMPLETED
 	db "Kurt@",36,GOLEM,$FF ; Rocktunnel 8
 	
 BikerData: ; COMPLETED
-	db "Charles@",52,WEEZING,MUK,ARBOK,$FF ; Route 14
+	db "Chazz@",52,WEEZING,MUK,ARBOK,$FF ; Route 14
 	db "Glenn@",53,RHYHORN,RHYDON,$FF ; Route 14 2l
-	db "Dwayne@",54,WEEZING,MUK,$FF ; Route 15 6
+	db "Dwayne J@",54,WEEZING,MUK,$FF ; Route 15 6
 	db "Joel@",54,MUK,MAGCARGO,$FF ; Route 15 5
 	db "Kyle@",52,MUK,WEEZING,$FF ; Route 16 1
 	db "Billy@",53,DITTO,$FF ; Route 16 4b
@@ -928,15 +928,15 @@ BikerData: ; COMPLETED
 	db "Reggie@",53,MURKROW,MUK,$FF ; Route 14 2r
 	
 BurglarData: ; COMPLETED
-	db "Arnie@",29,GROWLITHE,VULPIX,$FF ;                                UNKNOWN
+	db "Crud@",29,GROWLITHE,VULPIX,$FF ;                                UNKNOWN
 	db "Dusty@",33,GROWLITHE,$FF ;                                       UNKNOWN
-	db "Paul@",28,VULPIX,CHARMANDER,PONYTA,$FF ;                        UNKNOWN
-	db "Simon@",60,ARCANINE,NINETALES,$FF ; CINNABAR GYM 1
-	db "Darryl@",61,TORKOAL,FLAREON,$FF ; CINNABAR GYM 4
-	db "Corey@",61,NINETALES,ARCANINE,$FF ; CINNABAR GYM 6
-	db "Eddie@",57,CHARIZARD,$FF ; PKMNMANSION 2 1
-	db "Duncan@",58,NINETALES,$FF ; PKMNMANSION 2 E
-	db "Isaiah@",58,HOUNDOOM,RAPIDASH,$FF ; PKMNMANSION B 1
+	db "Grime@",28,VULPIX,CHARMANDER,PONYTA,$FF ;                        UNKNOWN
+	db "Dredge@",60,ARCANINE,NINETALES,$FF ; CINNABAR GYM 1
+	db "Scummy@",61,TORKOAL,FLAREON,$FF ; CINNABAR GYM 4
+	db "Boot@",61,NINETALES,ARCANINE,$FF ; CINNABAR GYM 6
+	db "Slice@",57,CHARIZARD,$FF ; PKMNMANSION 2 1
+	db "Skid@",58,NINETALES,$FF ; PKMNMANSION 2 E
+	db "Crust@",58,HOUNDOOM,RAPIDASH,$FF ; PKMNMANSION B 1
 	
 EngineerData: ; COMPLETED
 	db "Bernie@",21,MAGNEMITE,PIKACHU,$FF ;                              UNKNOWN
@@ -947,10 +947,10 @@ CoupleData: ; COMPLETED
 	db "Mike & Nat@",25,CUBONE,WEEPINBELL,$FF ; route 6
 
 FisherData: ; COMPLETED
-	db "Walt@",26,GOLDEEN,TENTACOOL,VAPOREON,$FF ;                     UNKNOWN
+	db "Man@",26,GOLDEEN,TENTACOOL,VAPOREON,$FF ;                     UNKNOWN
 	db "Chris@",25,TENTACOOL,STARYU,SHELLDER,$FF ; SSANNE 5
 	db "Craig@",37,POLIWRATH,SEAKING,$FF ; Route 12 4
-	db "Bill@",38,TENTACRUEL,SEAKING,$FF ; ROUTE 12 3
+	db "Price@",38,TENTACRUEL,SEAKING,$FF ; ROUTE 12 3
 	db "Hank@",37,SEAKING,VAPOREON,$FF ; ROUTE 12 2 
 	db "Brad@",37,POLIWRATH,SEAKING,SEADRA,$FF ; ROUTE 12 1
 	db "Jimmy@",55,SEAKING,SEAKING,$FF ; ROUTE 21 5T
@@ -979,8 +979,8 @@ SwimmerData: ; COMPLETED
 	
 CueBallData: ; COMPLETED
 	db "Chance@",52,MACHAMP,$FF ; Route 16 2
-	db "Dave@",52,PRIMEAPE,$FF ; Route 16 3
-	db "Chad@",52,MACHAMP,$FF ; Route 16 4T
+	db "Nine@",52,PRIMEAPE,$FF ; Route 16 3
+	db "Ivo@",52,MACHAMP,$FF ; Route 16 4T
 	db "Scott@",53,PRIMEAPE,$FF ; Route 17 R 2
 	db "Nick@",53,MACHAMP,$FF ; Route 17 R 1
 	db "Reese@",53,HITMONLEE,$FF ; Route 17 R 4
@@ -988,34 +988,34 @@ CueBallData: ; COMPLETED
 	db "Bruce@",53,PRIMEAPE,HITMONCHAN,$FF ; Route 17 R 5
 	
 GamblerData: ; COMPLETED
-	db "Stan@",26,POLIWAG,HORSEA,$FF ; route 11 1d
+	db "Jerma@",26,POLIWAG,HORSEA,$FF ; route 11 1d
 	db "Rich@",25,BELLSPROUT,ODDISH,$FF ; route 11 3
 	db "Dirk@",26,VOLTORB,MAGNEMITE,$FF ; route 11 6d
 	db "Jasper@",26,GROWLITHE,VULPIX,$FF; route 11 4u
-	db "Phil@",36,POLIWRATH,$FF ; route 8 5
+	db "Greene@",36,POLIWRATH,$FF ; route 8 5
 	db "Biff@",34,ONIX,GEODUDE,GRAVELER,$FF ;                        UNKNOWN
 	db "Joel@",36,ARCANINE,NINETALES,$FF ; route 8
 	
 SwimmerFData:
 BeautyData: ; COMPLETED
-	db "Charlotte@",41,ODDISH,GLOOM,BELLOSSOM,$FF ; CELADON GYM 2
-	db "Beth@",42,VICTREEBEL,$FF ; CELADON GYM L
+	db "Britney@",41,ODDISH,GLOOM,BELLOSSOM,$FF ; CELADON GYM 2
+	db "Amala@",42,VICTREEBEL,$FF ; CELADON GYM L
 	db "Selena@",42,EXEGGCUTE,EXEGGUTOR,$FF ; CELADON GYM LI
 	db "Ariana@",52,RATICATE,$FF ; Route 13 FRTR
-	db "Callie@",52,PERSIAN,$FF ; Route 13 FRTL
-	db "Malena@",55,SEAKING,$FF ; Route 19 Outside Cave
-	db "Brea@",53,CLOYSTER,SEAKING,$FF ; Route 19
-	db "Kaylee@",55,POLIWRATH,SEAKING,$FF ; Route 19 After Cave
-	db "Lynn@",54,PIDGEOT,WIGGLYTUFF,$FF ; Route 15 7B
-	db "Holly@",54,VENUSAUR,$FF ; Route 15 4T
-	db "Carly@",53,WEEPINBELL,BELLSPROUT,WEEPINBELL,$FF ;            UNKNOWN
-	db "Kiera@",54,POLIWRATH,SEAKING,$FF ; Route 19 5L
-	db "Mandy@",54,SEAKING,$FF ; Route 19 5R
-	db "Anna@",55,STARMIE,$FF ; Route 19 5B
-	db "Caitlyn@",55,SEADRA,$FF ; Route 19 L 2
-	db "Colby@",24,GOLDEEN,$FF ; CERULEAN GYM 2
-	db "Callie@",55,DEWGONG,$FF ; Route 20, Trainer # 0x11
-	db "Marie@",55,SEAKING,$FF ; Route 20, Trainer # 0x12
+	db "Taylor@",52,PERSIAN,$FF ; Route 13 FRTL
+	db "Mel@",55,SEAKING,$FF ; Route 19 Outside Cave
+	db "Victoria@",53,CLOYSTER,SEAKING,$FF ; Route 19
+	db "Emma@",55,POLIWRATH,SEAKING,$FF ; Route 19 After Cave
+	db "Geri@",54,PIDGEOT,WIGGLYTUFF,$FF ; Route 15 7B
+	db "Dolly@",54,VENUSAUR,$FF ; Route 15 4T
+	db "Stevie@",53,WEEPINBELL,BELLSPROUT,WEEPINBELL,$FF ;            UNKNOWN
+	db "Bonnie@",54,POLIWRATH,SEAKING,$FF ; Route 19 5L
+	db "Joan@",54,SEAKING,$FF ; Route 19 5R
+	db "Bjork@",55,STARMIE,$FF ; Route 19 5B
+	db "Alyson@",55,SEADRA,$FF ; Route 19 L 2
+	db "Amanda@",24,GOLDEEN,$FF ; CERULEAN GYM 2
+	db "Billie@",55,DEWGONG,$FF ; Route 20, Trainer # 0x11
+	db "Dua@",55,SEAKING,$FF ; Route 20, Trainer # 0x12
 	
 PsychicData: ; COMPLETED
 	db "Yuri@",51,ABRA,KADABRA,ALAKAZAM,$FF ; SAFFRON Gym RT
@@ -1025,17 +1025,17 @@ PsychicData: ; COMPLETED
 	
 RockerData: ; COMPLETED
 	db "Debbie@",CUSTOM_PIC,ROCKER_F,35,VOLTORB,ELECTRODE,$FF ; LT LURGE GYM
-	db "C.C.@",52,ARBOK,$FF ; Route 13 R 6
+	db "Slider@",52,ARBOK,$FF ; Route 13 R 6
 	
 JugglerData: ; COMPLETED
-	db "Irwin@",46,ALAKAZAM,MR_MIME,$FF ; SILPHCO 5 M
-	db "Horton@",63,HYPNO,ALAKAZAM,$FF ; VICTORYROAD 2 2
+	db "Norman@",46,ALAKAZAM,MR_MIME,$FF ; SILPHCO 5 M
+	db "Flumm@",63,HYPNO,ALAKAZAM,$FF ; VICTORYROAD 2 2
 	db "Fritz@",56,MUK,WEEZING,MUK,$FF ; FUSIA GYM 2R
 	db "Liam@",56,MUK,TENTACRUEL,WEEZING,$FF ; FUSIA GYM 4M
 	db "Cloyd@",64,MR_MIME,$FF ; VICTORYROAD 2 4
 	db "Derek@",53,HYPNO,$FF ;                                  UNKNOWN
-	db "Will@",55,CROBAT,MUK,$FF ; FUSIA GYM 1R
-	db "Shawn@",55,CROBAT,WEEZING,MUK,$FF ; FUSIA GYM 1L
+	db "Ringo@",55,CROBAT,MUK,$FF ; FUSIA GYM 1R
+	db "Pietro@",55,CROBAT,WEEZING,MUK,$FF ; FUSIA GYM 1L
 	
 TamerData: ; COMPLETED
 	db "Cole@",56,NIDOKING,ARBOK,$FF ; FUSIA GYM 4TL
@@ -1051,8 +1051,8 @@ BirdKeeperData: ; COMPLETED
 	db "Bob@",52,PIDGEOT,FEAROW,$FF ; Route 13 LB
 	db "Hank@",53,FARFETCHD,$FF ; Route 14 1R
 	db "Bret@",54,FEAROW,$FF ; Route 15 8
-	db "Roy@",54,PIDGEOT,FARFETCHD,DODRIO,$FF ; Route 15 2
-	db "Toby@",53,DODRIO,DODRIO,$FF ; Route 15 3
+	db "Fudd@",54,PIDGEOT,FARFETCHD,DODRIO,$FF ; Route 15 2
+	db "Tobey@",53,DODRIO,DODRIO,$FF ; Route 15 3
 	db "Chad@",54,FEAROW,$FF ; Route 18 L
 	db "Mike@",54,DODRIO,$FF ; Route 18 B
 	db "Kyle@",53,FEAROW,FEAROW,$FF ; Route 18 M
@@ -1061,23 +1061,23 @@ BirdKeeperData: ; COMPLETED
 	db "Troy@",52,FARFETCHD,FEAROW,$FF ;                                UNKNOWN
 	db "Kevin@",52,DODRIO,PIDGEOT,$FF ;                        UNKNOWN / somewhere on route 13
 	db "Jim@",52,MURKROW,FEAROW,$FF ; Route 13 LB
-	db "Eric@",53,PIDGEOT,FEAROW,$FF ; Route 14 4R
+	db "Keaton@",53,PIDGEOT,FEAROW,$FF ; Route 14 4R
 	db "Chris@",53,MURKROW,FEAROW,$FF ; Route 14 3R
 	
 BlackbeltData: ; COMPLETED
-	db "Kenji@",50,HITMONLEE,HITMONCHAN,$FF ; Blackbelt leader
-	db "Lao@",45,PRIMEAPE,$FF ; 1st Blackbelt
+	db "Daniel@",50,HITMONLEE,HITMONCHAN,$FF ; Blackbelt leader
+	db "Donnie@",45,PRIMEAPE,$FF ; 1st Blackbelt
 	db "Hung@",45,MACHAMP,$FF ;2nd Blackbelt
-	db "Chang@",45,PRIMEAPE,$FF ;3rd Blackbelt
+	db "Lee@",45,PRIMEAPE,$FF ;3rd Blackbelt
 	db "Toru@",45,PRIMEAPE,$FF ; 4th Blackbelt
 	db "Yoshi@",61,MACHAMP,$FF ; VIDIAN GYM C2                                 
-	db "Wang@",62,MACHAMP,$FF ; VIRIDIAN GYM LM							
-	db "Nob@",61,MACHAMP,$FF ; VIRIDIAN GYM T
+	db "Wong@",62,MACHAMP,$FF ; VIRIDIAN GYM LM							
+	db "Simu@",61,MACHAMP,$FF ; VIRIDIAN GYM T
 	db "Wai@",63,MACHAMP,MACHAMP,$FF ; VICTORYROAD 2 1
 	
 GentlemanData: ; COMPLETED
 	db "Alfred@",26,GROWLITHE,PONYTA,CHARMANDER,$FF ; SSANNE 1r
-	db "Edward@",25,NIDORINA,NIDORINO,$FF ; SSANNE
+	db "Harold@",25,NIDORINA,NIDORINO,$FF ; SSANNE
 	db "Preston@",35,RAICHU,$FF ; VERMILLION GYM
 	db "Gregory@",48,PRIMEAPE,$FF ;                                         	UNKNOWN
 	db "Howard@",25,GROWLITHE,PONYTA,$FF ; SSANNE	
@@ -1086,7 +1086,7 @@ GentlemanData: ; COMPLETED
 ChannelerData: ; COMPLETED
 	db "Amelia@",38,GASTLY,$FF ; PKMNTOWER
 	db "Selene@",39,GASTLY,$FF
-	db "Karina@",38,MISDREAVUS,HAUNTER,$FF
+	db "Spectre@",38,MISDREAVUS,HAUNTER,$FF
 	db "Hope@",39,HAUNTER,$FF
 	db "Stacy@",38,HAUNTER,$FF
 	db "Gwen@",39,GASTLY,$FF
@@ -1107,7 +1107,7 @@ ChannelerData: ; COMPLETED
 	db "Cassie@",40,GENGAR,$FF ; PKMNTOWER
 	
 ScientistData: ; COMPLETED
-	db "Sheldon@",50,WEEZING,ELECTRODE,$FF ; PKMNMANSION 1                  I AM NOT SURE ABOUT THIS...
+	db "Sheldone@",50,WEEZING,ELECTRODE,$FF ; PKMNMANSION 1                  I AM NOT SURE ABOUT THIS...
 	db "Ross@",45,WEEZING,$FF ; SILPHCO 2 BL
 	db "Mitch@",45,MAGNETON,ELECTRODE,$FF ; SILPHCO 2 B
 	db "Jed@",45,ELECTRODE,WEEZING,$FF ; SILPHCO 3 L
@@ -1119,11 +1119,11 @@ ScientistData: ; COMPLETED
 	db "Brian@",47,ELECTRODE,MAGNETON,$FF ; SILPHCO 9 R
 	db "Alex@",47,MAGNETON,ELECTABUZZ,$FF ; SILPHCO 10 1
 	db "Justin@",57,MAGNETON,JOLTEON,$FF ; PKMNMANSION 3 R
-	db "Chris@",58,MAGNETON,ELECTRODE,$FF ; PKMNMANSION B 2
+	db "Bazzing@",58,MAGNETON,ELECTRODE,$FF ; PKMNMANSION B 2
 	
 RocketFData:
 RocketData: ; COMPLETED
-	db "Executive@"
+	db "Sqwaker@"
 	db SPECIAL_TRAINER2
 	db EXECUTIVE_F
 	db AI_POTION
@@ -1141,9 +1141,9 @@ RocketData: ; COMPLETED
 	db "Grunt@",25,MACHOKE,DROWZEE,$FF ; CERULEAN BACK OF HOUSE
 	db "Grunt@",CUSTOM_PIC,PI_TRAINER,21,RATICATE,GOLBAT,ARBOK,$FF ; NUGGET BRIDGE FINALE
 	db "Grunt@",40,RATICATE,GOLBAT,$FF ; GC F1
-	db "Grunt@",40,HYPNO,MACHAMP,$FF ; GC B1
+	db "Rabbit@",40,HYPNO,MACHAMP,$FF ; GC B1
 	db "Grunt@",40,RATICATE,RATICATE,$FF ; GC B1
-	db "Grunt@",41,WEEZING,MUK,$FF ; GC B2
+	db "Misery@",41,WEEZING,MUK,$FF ; GC B2
 	db "Grunt@",41,RATICATE,$FF ; GC B2
 	db "Grunt@",42,WEEZING,MUK,$FF ; GC EV
 	db "Grunt@",41,GOLBAT,RATICATE,$FF ; GC B2
@@ -1154,30 +1154,30 @@ RocketData: ; COMPLETED
 	db "Grunt@",43,WEEZING,MUK,GOLBAT,$FF ; GC B4
 	db "Grunt@",50,CROBAT,$FF ; PKMNTOWER 1
 	db "Grunt@",50,WEEZING,HYPNO,$FF ; PKMNTOWER 2
-	db "Executive@",CUSTOM_PIC,EXECUTIVE_M,50,HOUNDOOM,HONCHKROW,WEEZING,$FF ; PKMNTOWER 3
+	db "Sqwaker@",CUSTOM_PIC,EXECUTIVE_M,50,HOUNDOOM,HONCHKROW,WEEZING,$FF ; PKMNTOWER 3
 	db "Grunt@",46,HYPNO,WEEZING,$FF ;                                     UNKNOWN
 	db "Grunt@",45,MAROWAK,GOLBAT,$FF ; SILPH 2 C
 	db "Grunt@",45,GOLBAT,RATICATE,$FF ; SILPH 2 1
-	db "Grunt@",45,RATICATE,HYPNO,RATICATE,$FF ; SILPH 3 1
+	db "Misery@",45,RATICATE,HYPNO,RATICATE,$FF ; SILPH 3 1
 	db "Grunt@",45,MACHAMP,HYPNO,$FF ; SILPH 4 L
 	db "Grunt@",45,ARBOK,SANDSLASH,$FF ; SILPH 4 R
-	db "Grunt@",46,ARBOK,$FF ; SILPH 5 B
+	db "Rabbit@",46,ARBOK,$FF ; SILPH 5 B
 	db "Grunt@",46,HYPNO,$FF ; SILPH 5 R
 	db "Grunt@",46,MACHAMP,$FF ; SILPH 6 T
 	db "Grunt@",46,GOLBAT,$FF ; SILPH 6 B
-	db "Grunt@",46,RATICATE,WEEZING,$FF ; SILPH 6 L
+	db "Misery@",46,RATICATE,WEEZING,$FF ; SILPH 6 L
 	db "Grunt@",46,MAROWAK,$FF ; SILPHCO 7 1
 	db "Grunt@",46,SANDSLASH,$FF ; SILPH 7 BR
 	db "Grunt@",46,RATICATE,GOLBAT,$FF ; SILPHCO 7 L
 	db "Grunt@",47,WEEZING,MUK,$FF ; SILPHCO 8 B
 	db "Grunt@",47,HYPNO,MUK,$FF ; SILPHCO 9 UL
-	db "Grunt@",47,GOLBAT,HYPNO,$FF ; SILPHCO 9 B
+	db "Rabbit@",47,GOLBAT,HYPNO,$FF ; SILPHCO 9 B
 	db "Grunt@",47,MACHAMP,$FF ; SILPHCO 10 2
 	db "Grunt@",47,RATICATE,ARBOK,GOLBAT,$FF ; SILPHCO 11 1
-	db "Executive@",CUSTOM_PIC,EXECUTIVE_M,50,HYPNO,MAROWAK,$FF ; SILPHCO 13 1
+	db "Sqwaker@",CUSTOM_PIC,EXECUTIVE_M,50,HYPNO,MAROWAK,$FF ; SILPHCO 13 1
 	
 AceTrainerMData: ; COMPLETED
-	db "Aaron@",61,NIDOKING,$FF ; VIRIDIAN GYM C2T
+	db "Wes@",61,NIDOKING,$FF ; VIRIDIAN GYM C2T
 	db "Blake@",63,EXEGGUTOR,CLOYSTER,ARCANINE,$FF ; VICTORYROAD 3 BY ITEM
 	db "Brian@",63,KINGLER,TENTACRUEL,BLASTOISE,$FF ; VICTORYROAD 3 BL
 	db "Cody",45,KINGLER,STARMIE,$FF ;                                     UNKNOWN
@@ -1194,14 +1194,14 @@ AceTrainerFData: ; COMPLETED
 	db "Megan@",63,PARASECT,DEWGONG,CHANSEY,$FF ; VICTORYROAD 3 C
 	db "Quinn@",46,VILEPLUME,BUTTERFREE,$FF ;                                UNKNOWN
 	db "Irene@",64,PERSIAN,NINETALES,$FF ; VICTORYROAD 1 M
-	db "Sara@",45,IVYSAUR,VENUSAUR,$FF ;                                    UNKNOWN
+	db "Ivy@",45,IVYSAUR,VENUSAUR,$FF ;                                    UNKNOWN
 	db "Lisa@",45,NIDORINA,NIDOQUEEN,$FF ;                                  UNKNOWN
 	db "Anna@",43,PERSIAN,NINETALES,RAICHU,$FF ;                            UNKNOWN
 	
 HexManiacData:
 	db "Alice@",51,GENGAR,MISDREAVUS,$FF ; SAFFRON GYM
 	db "Luna@",52,GENGAR,MISDREAVUS,$FF ; SAFFRON GYM
-	db "Carrie@",53,GENGAR,MISDREAVUS,$FF ; SAFFRON GYM
+	db "Wanda@",53,GENGAR,MISDREAVUS,$FF ; SAFFRON GYM
 
 PkmnTrainerData:
     db "Flannery@"
