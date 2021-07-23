@@ -1,5 +1,5 @@
 _PewterGymText_5c49e::
-	text "I'm Brock!"
+	text "I'm Peroe!"
 	line "I'm Pewter's Gym"
 	cont "Leader!"
 

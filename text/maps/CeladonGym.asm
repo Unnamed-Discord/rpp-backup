@@ -7,7 +7,7 @@ _CeladonGymText_48a5e::
 	line "I must have dozed"
 	cont "off. Welcome."
 
-	para "My name is Erika."
+	para "My name's Sammie."
 	line "I am the Leader"
 	cont "of Celadon Gym."
 
@@ -96,7 +96,7 @@ _CeladonGymEndBattleText2::
 
 _CeladonGymAfterBattleText2::
 	text "Ugg!"
-	line "I hope Erika"
+	line "I hope Sammie"
 	cont "wipes you out!"
 	done
 
@@ -167,7 +167,7 @@ _CeladonGymEndBattleText6::
 	prompt
 
 _CeladonGymAfterBattleText6::
-	text "Our Leader, Erika,"
+	text "Leader Sammie"
 	line "might be quiet,"
 	cont "but she's also"
 	cont "very skilled!"

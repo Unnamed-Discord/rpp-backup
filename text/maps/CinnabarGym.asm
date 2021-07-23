@@ -1,7 +1,7 @@
 _BlaineBattleText::
 	text "Hah!"
 
-	para "I am Blaine! I"
+	para "I am Oldtimer! I"
 	line "am the Leader of"
 	cont "Cinnabar Gym!"
 
@@ -140,8 +140,8 @@ _CinnabarGymText_75a08::
 	done
 
 _CinnabarGymText_75a33::
-	text "I know why Blaine"
-	line "became a trainer!"
+	text "Know why Oldtimer"
+	line "became a trainer?"
 	done
 
 _CinnabarGymText_75a38::
@@ -149,13 +149,13 @@ _CinnabarGymText_75a38::
 	prompt
 
 _CinnabarGymText_75a3d::
-	text "Blaine was lost"
+	text "Oldtimer was lost"
 	line "in the mountains"
 	cont "when a fiery bird"
 	cont "#mon appeared."
 
 	para "Its light enabled"
-	line "Blaine to find"
+	line "him to find"
 	cont "his way down!"
 	done
 
@@ -197,7 +197,7 @@ _CinnabarGymText_75ac2::
 	line "making!"
 
 	para "The hot-headed"
-	line "Blaine is a fire"
+	line "Oldtimer's a fire"
 	cont "#mon pro!"
 
 	para "Douse his spirits"

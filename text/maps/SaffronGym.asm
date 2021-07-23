@@ -74,7 +74,7 @@ _SaffronGymText_5d1e6::
 	text "Yo! Champ in"
 	line "making!"
 
-	para "Sabrina's #mon"
+	para "Meowsa's #mon"
 	line "use psychic power"
 	cont "instead of force!"
 
@@ -116,7 +116,7 @@ _SaffronGymAfterBattleText1::
 	cont "will wins."
 
 	para "If you wish"
-	line "to beat Sabrina,"
+	line "to beat Meowsa,"
 	cont "focus on winning!"
 	done
 
@@ -167,7 +167,7 @@ _SaffronGymEndBattleText4::
 	prompt
 
 _SaffronGymAfterBattleText4::
-	text "Sabrina just wiped"
+	text "Meowsa just wiped"
 	line "out the Karate"
 	cont "Master next door!"
 	done
@@ -189,7 +189,7 @@ _SaffronGymAfterBattleText5::
 	done
 
 _SaffronGymBattleText6::
-	text "Sabrina is young,"
+	text "Meowsa is young,"
 	line "but she's also"
 	cont "our Leader!"
 
@@ -220,7 +220,7 @@ _SaffronGymBattleText7::
 	cont "its psychics!"
 
 	para "You want to see"
-	line "Sabrina!"
+	line "Meowsa!"
 	cont "I can tell!"
 	done
 

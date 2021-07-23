@@ -4,8 +4,8 @@ _LanceBeforeBattleText::
 
 	para "I lead the Elite"
 	line "Four! You can"
-	cont "call me Lance the"
-	cont "dragon trainer!"
+	cont "call me ZiggPeck"
+	cont "the dragon guy!"
 
 	para "You know that"
 	line "dragons are"

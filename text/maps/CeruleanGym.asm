@@ -13,7 +13,7 @@ _CeruleanGymText_5c7be::
 	para "I think you know"
 	line "what I'm saying."
 
-	para "I'm Misty, the"
+	para "I'm Orange, the"
 	line "Gym Leader, and"
 	cont "this is as far as"
 	cont "you go!"
@@ -67,7 +67,7 @@ _CeruleanGymText_5c7d8::
 	cont "show you beat me!@@"
 
 _CeruleanGymBattleText1::
-	text "You want Misty?"
+	text "You want Orange?"
 	line "Not a chance!"
 
 	para "You'll have to go"
@@ -100,8 +100,8 @@ _CeruleanGymEndBattleText2::
 	prompt
 
 _CeruleanGymAfterBattleText2::
-	text "Misty is going to"
-	line "keep improving!"
+	text "Orange is going"
+	line "to improve!"
 
 	para "She won't lose to"
 	line "someone like you!"
@@ -113,7 +113,7 @@ _CeruleanGymText_5c82a::
 
 	para "Here's my advice!"
 
-	para "The Leader, Misty,"
+	para "Leader Orange"
 	line "is a pro who uses"
 	cont "water #mon!"
 
@@ -126,7 +126,7 @@ _CeruleanGymText_5c82a::
 	done
 
 _CeruleanGymText_5c82f::
-	text "You beat Misty!"
+	text "You beat Orange!"
 	line "What'd I tell ya?"
 
 	para "You and me, kid,"

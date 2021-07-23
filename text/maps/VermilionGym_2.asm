@@ -62,7 +62,7 @@ _ReceivedThunderbadgeText::
 
 _VermilionGymBattleText1::
 	text "When I was in the"
-	line "Army, Lt. Surge"
+	line "Army, Dr. Draw"
 	cont "was my strict CO!"
 	done
 
@@ -75,7 +75,7 @@ _VermilionGymAfterBattleText1::
 	text "The door won't"
 	line "open?"
 
-	para "Lt. Surge always"
+	para "Dr. Draw always"
 	line "was cautious!"
 	done
 
@@ -95,7 +95,7 @@ _VermilionGymEndBattleText2::
 _VermilionGymAfterBattleText2::
 	text "OK, I'll talk!"
 
-	para "Lt. Surge said he"
+	para "Dr. Draw said he"
 	line "hid door switches"
 	cont "inside something!"
 	done
@@ -111,7 +111,7 @@ _VermilionGymEndBattleText3::
 	prompt
 
 _VermilionGymAfterBattleText3::
-	text "Lt. Surge set up"
+	text "Dr. Draw set up"
 	line "double locks!"
 	cont "Here's a hint!"
 
@@ -125,7 +125,7 @@ _VermilionGymText_5cbf4::
 	text "Yo! Champ in"
 	line "making!"
 
-	para "Lt. Surge has a"
+	para "Dr. Draw has a"
 	line "nickname. People"
 	cont "refer to him as"
 	cont "the Lightning"
@@ -139,7 +139,7 @@ _VermilionGymText_5cbf4::
 	cont "risk! Beware of"
 	cont "paralysis too!"
 
-	para "Lt. Surge is very"
+	para "Dr. Draw is very"
 	line "cautious!"
 
 	para "You'll have to"

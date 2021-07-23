@@ -1,5 +1,5 @@
 _AgathaBeforeBattleText::
-	text "I am Agatha of"
+	text "I am Eternia of"
 	line "the Elite Four!"
 
 	para "Conny's taken a"

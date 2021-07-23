@@ -117,7 +117,7 @@ _VermilionCityText11::
 _VermilionCityText12::
 	text "Vermilion City"
 	line "#mon Gym"
-	cont "Leader: Lt. Surge"
+	cont "Leader: Dr. Draw"
 
 	para "The Lightning"
 	line "American!"
